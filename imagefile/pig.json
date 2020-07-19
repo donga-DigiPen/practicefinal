@@ -1,0 +1,24 @@
+{"frames": [
+
+{
+	"filename": "pig-0.png",
+	"frame": {"x":0,"y":0,"w":110,"h":110}
+	
+},
+{
+	"filename": "pig-1.png",
+	"frame": {"x":110,"y":0,"w":110,"h":110}
+	
+},
+{
+	"filename": "pig-2.png",
+	"frame": {"x":220,"y":0,"w":110,"h":110}
+	
+},
+{
+	"filename": "pig-3.png",
+	"frame": {"x":330,"y":0,"w":110,"h":110}
+	
+}
+
+] }
