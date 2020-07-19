@@ -1,8 +1,7 @@
-html, body {
-  margin: 0;
-  padding: 0;
+html{
+  height: 100%
 }
-canvas {
+body {
   margin: 0
   display: flex;
 }
